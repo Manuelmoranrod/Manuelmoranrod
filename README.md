@@ -24,7 +24,7 @@ When I'm not programming I like to practice sports like surfing, snowboarding or
 
 ## Connect
 
-  - [LinkedIn]([https://www.linkedin.com/in/manuelmoranrodriguez/])
+  - [https://www.linkedin.com/in/manuelmoranrodriguez/]
 
 #### If you are curious, checkout some of the project I was involved in 👇
 
