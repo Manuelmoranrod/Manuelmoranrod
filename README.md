@@ -11,20 +11,20 @@ Currently the technologies I use are: React, Express, Mongo and Node.js. Being k
 When I'm not programming I like to practice sports like surfing, snowboarding or motocross.
 
 ## Love to work with:
-  > React
-  > Typescript
-  > Express
+  - React
+  - Typescript
+  - Express
    
 
 ## Curious to keep learning:
-  > React Native
-  > GraphQL
-  > Go
+  - React Native
+  - GraphQL
+  - Go
 
 
 ## Connect
 
-> [LinkedIn]([https://www.linkedin.com/in/manuelmoranrodriguez/])
+  - [LinkedIn]([https://www.linkedin.com/in/manuelmoranrodriguez/])
 
 #### If you are curious, checkout some of the project I was involved in 👇
 
