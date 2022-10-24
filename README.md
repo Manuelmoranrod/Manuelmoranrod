@@ -11,14 +11,12 @@ Currently the technologies I use are: React, Express, Mongo and Node.js. Being k
 When I'm not programming I like to practice sports like surfing, snowboarding or motocross.
 
 ## Love to work with:
-   bash
   > React
   > Typescript
   > Express
    
 
 ## Curious to keep learning:
-   bash
   > React Native
   > GraphQL
   > Go
