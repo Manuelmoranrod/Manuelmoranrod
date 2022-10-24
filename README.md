@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://viajes.nationalgeographic.com.es/medio/2019/03/30/transfagarasan_8944e449_1280x607.jpg" height="300" width="800px">
+  <img src="https://viajes.nationalgeographic.com.es/medio/2019/03/30/transfagarasan_8944e449_1280x607.jpg" height="400" width="800px">
 </div>
 
 # Hi 👋, I'm Manuel
